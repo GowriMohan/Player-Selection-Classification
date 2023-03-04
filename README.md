@@ -1,4 +1,4 @@
-# Player-Selection-prediction
+# Player-Selection-Classification
 
 
 Problem Statement: Predicting the likelihood of a soccer player being selected for a team based on their skills, experience, and behavioral traits.
